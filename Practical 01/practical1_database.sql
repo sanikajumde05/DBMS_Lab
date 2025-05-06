@@ -1,4 +1,3 @@
---Name- Arya Jain
 -- Create Product table
 CREATE TABLE Product (
     Product_ID INT PRIMARY KEY,
